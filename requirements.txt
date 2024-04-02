@@ -1,7 +1,4 @@
 Flask
+opencv_python
+pyzbar
 Gunicorn
-opencv-python
-pytesseract
-requests
-pymongo
-Pillow
